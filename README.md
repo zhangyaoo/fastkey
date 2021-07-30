@@ -1,0 +1,2 @@
+# fastkey
+fastkey
